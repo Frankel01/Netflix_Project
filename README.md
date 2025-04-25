@@ -11,9 +11,7 @@ The Dataset for this project was sourced form Kaggle [Click Here](https://www.ka
 ### Methods and Tools
 ---
 - Data Cleaning: Performed using Microsoft Excel to remove errors and prepare the dataset.
-
-- Data Exploration: SQL queries were written and executed using SQL Server Management Studio (SSMS) to better understand data distributions and relationships.
-
+  
 - Visualization: Built an interactive dashboard using Power BI to show attrition trends and patterns across different categories.
 to show insights such as top contributing countries, casts, directors, popular genre, and time-based trends.
 
@@ -39,7 +37,12 @@ to show insights such as top contributing countries, casts, directors, popular g
 
 - Most content originates from the USA and India
 
-- Dramas and comedies dominate the genre landscape
+- Dramas, International movies, Documentaries, and comedies dominate the genre landscape
+
+### Conclusion
+---
+This dashboard reveals key trends in Netflix’s content strategy—highlighting dominant genres, top contributing countries, and shifts in content release over time. 
+It provides clear insights for understanding viewer preferences and Netflix’s global content expansion.
 
 
 
