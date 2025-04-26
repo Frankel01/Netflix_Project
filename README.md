@@ -1,4 +1,18 @@
 # Netflix_Project
+[Overview](#overview)
+
+[Column Contents](#column-contents)
+
+[Methods and Tools](#methods-and-tools)
+
+[Features of Dashboard](#features-of-dashboard)
+
+[Insights and Findings](#insights-and-findings)
+
+[Conclusion](#conclusion)
+
+[Recommendation](#recommendation)
+
 
 ### Overview
 ---
@@ -6,9 +20,10 @@ This project analyzes Netflix dataset using SQL and Power BI to uncover trends i
 It transforms raw Netflix data into interactive visual insights for better decision-making.
 
 ### Data Source
+---
 The Dataset for this project was sourced form Kaggle [Click Here](https://www.kaggle.com/)
 
-### Columns Contents
+### Column Contents
 ---
 - Title
 - Type (Movie or TV Show)
@@ -30,7 +45,7 @@ to show insights such as top contributing countries, casts, directors, popular g
 
 - Github: For portifolio building.
 
-### Features
+### Features of Dashboard 
 ---
 - Total content count of Movies and Series
 
@@ -57,5 +72,10 @@ to show insights such as top contributing countries, casts, directors, popular g
 This dashboard reveals key trends in Netflix’s content strategy—highlighting dominant genres, top contributing countries, and shifts in content release over time. 
 It provides clear insights for understanding viewer preferences and Netflix’s global content expansion.
 
+### Recommendation
+--- 
+- Drama, comedy, and documentaries are top genres, increase contents production to increase user engagement and to attract loyal viewers.
+- Movies outnumber TV shows, but shows tend to drive long-term engagement, therefore gradual increaseshould be made in TV series quality to boost watch time.
+- TV-MA and TV-14 dominate; little PG or G content, more family-friendly or kids' content should be produced to attract broader age groups and diversify subscription appeal.
 
 
