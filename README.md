@@ -8,6 +8,19 @@ It transforms raw Netflix data into interactive visual insights for better decis
 ### Data Source
 The Dataset for this project was sourced form Kaggle [Click Here](https://www.kaggle.com/)
 
+### Columns Contents
+---
+- Title
+- Type (Movie or TV Show)
+- Director & Cast
+- Country
+- Date Added
+- Release Year
+- Rating
+- Duration
+- Genre (Listed In)
+- Description
+
 ### Methods and Tools
 ---
 - Data Cleaning: Performed using Microsoft Excel to remove errors and prepare the dataset.
