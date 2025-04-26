@@ -62,6 +62,8 @@ to show insights such as top contributing countries, casts, directors, popular g
 - Majority of content on Netflix is movies
 
  - Highest content upload occurred in 2019-2020
+   
+ - TV-MA and TV-14 dominate; little PG or G content.
 
 - Most content originates from the USA and India
 
