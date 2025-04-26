@@ -11,7 +11,7 @@
 
 [Conclusion](#conclusion)
 
-[Recommendation](#recommendation)
+[Recommendations](#recommendations)
 
 
 ### Overview
@@ -74,7 +74,7 @@ to show insights such as top contributing countries, casts, directors, popular g
 This dashboard reveals key trends in Netflix’s content strategy—highlighting dominant genres, top contributing countries, and shifts in content release over time. 
 It provides clear insights for understanding viewer preferences and Netflix’s global content expansion.
 
-### Recommendation
+### Recommendations
 --- 
 - Drama, comedy, and documentaries are top genres, increase contents production to increase user engagement and to attract loyal viewers.
 - Movies outnumber TV shows, but shows tend to drive long-term engagement, therefore gradual increaseshould be made in TV series quality to boost watch time.
